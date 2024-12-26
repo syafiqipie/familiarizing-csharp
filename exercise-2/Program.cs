@@ -7,7 +7,7 @@ double radius = 3.2;
 double height = 7.5;
 
 // Your code here:
-double volume = 0;
+double volume = 0; // Replace 0 with the correct calculation
 
 Console.WriteLine($"The volume of a cylinder with r={radius}, h={height} is: {volume}");
 
@@ -21,8 +21,8 @@ double b = 6;
 double c = 7;
 
 // Your code here:
-double s = 0;
-double area = 0;
+double s = 0; // Replace 0 with the correct calculation
+double area = 0; // Replace 0 with the correct calculation
 
 Console.WriteLine($"The area of the triangle is: {area}");
 
@@ -36,7 +36,7 @@ double x2 = 4;
 double y2 = 6;
 
 // Your code here:
-double distance = 0;
+double distance = 0; // Replace 0 with the correct calculation
 
 Console.WriteLine($"The distance between (1,2) and (4,6) is: {distance}");
 
@@ -48,8 +48,8 @@ int num = 18;
 int divisor = 4;
 
 // Your code here:
-int remainder = 0;
-bool isEven = false;
+int remainder = 0; // Replace 0 with the correct calculation
+bool isEven = false; // Replace false with the correct evaluation
 
 Console.WriteLine($"The remainder of {num} divided by {divisor} is {remainder}");
 Console.WriteLine($"Is {remainder} even? {isEven}"); // Boolean output
@@ -61,8 +61,8 @@ int x = 10;
 int y = 5;
 
 // Your code here:
-x = 0;
-y = 0;
-x = 0;
+x = 0; // Replace 0 with the correct calculation
+y = 0; // Replace 0 with the correct calculation
+x = 0; // Replace 0 with the correct calculation
 
 Console.WriteLine($"After swapping: x = {x}, y = {y}");
